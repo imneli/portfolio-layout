@@ -1,18 +1,6 @@
 # Portfolio Layout (Responsive only in Tablet)
 
 
-<style>
-    h2 {
-        color: #9c2424;;
-    }
-
-    .animations {
-        display: flex;
-        flex-direction: column;
-        gap: 1rem;
-    }
-</style>
-
 `Home Page`
 <img src="https://i.imgur.com/htqsEeN.png"> 
 `About Page`
