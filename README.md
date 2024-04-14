@@ -23,5 +23,7 @@ The project was inspired by a YouTube project and was made using HTML and CSS, b
 
 <p>Credits Template: https://www.youtube.com/@HowtoWebDev</p>
 
-<p>Usei o template desse canal e alterei algumas coisas,  como cor, itens, paginas, navbar entre outras coisas. A unica coisa que fiz foi pegar o vídeo de inspiração</p>
+<p>🇧🇷 Usei o template desse canal e alterei algumas coisas,  como cor, itens, paginas, navbar entre outras coisas. A unica coisa que fiz foi pegar o vídeo de inspiração</p>
+<p>🇺🇸 I used the template from this channel and changed some things, such as color, items, pages, navbar, among other things. The only thing I did was get the inspiration video</p>
+
 
